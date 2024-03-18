@@ -8,7 +8,7 @@
 <p align="center"><img src="https://github.com/Taverna-Hub/.github/assets/117609505/38218e6c-d514-40d9-b236-479347fbfdb7" width="800px" style="align: center;"></p>
 
 <p align="center"><img src="https://github.com/Taverna-Hub/.github/assets/117609505/ec28a1d8-16ff-4855-bea0-81f0fcd724d8" width="800px" style="align: center;"></p>
-
+<br />
 <table>
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
@@ -77,6 +77,7 @@
 </tr>
 </table>
 
-
+<br />
 <p align="center"><img src="https://github.com/Taverna-Hub/.github/assets/117609505/dfa89a05-bf01-4102-b881-792a0962c86a" width="800px" style="align: center;"></p>
 <h3 align="center">E-mail: taverna.hub@gmail.com</h3>
+
