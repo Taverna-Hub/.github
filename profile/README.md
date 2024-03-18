@@ -79,4 +79,4 @@
 
 
 <p align="center"><img src="https://github.com/Taverna-Hub/.github/assets/117609505/dfa89a05-bf01-4102-b881-792a0962c86a" width="800px" style="align: center;"></p>
-<h3 align="center">E-mail: <a href="mailto:taverna.hub@gmail.com?subject=oi&body=oi">taverna.hub@gmail.com</a></h3>
+<h3 align="center">E-mail: taverna.hub@gmail.com</h3>
