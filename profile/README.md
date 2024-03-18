@@ -8,6 +8,7 @@
 <p align="center"><img src="https://github.com/Taverna-Hub/.github/assets/117609505/38218e6c-d514-40d9-b236-479347fbfdb7" width="800px" style="align: center;"></p>
 <br />
 <p align="center">
+    <img src="https://github.com/Taverna-Hub/.github/assets/117609505/c776036f-6e7f-4576-9342-c3e93c66ac51" height="150px">    
     <a href="https://github.com/Taverna-Hub/ForgeSheets" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=ForgeSheets&show_owner=true&theme=dark" /></a>
 </p>
 <br />
@@ -29,7 +30,7 @@
         <a href="https://github.com/Pandor4b">
         <div
           style="border: 3px solid #7f1d1d; border-radius: 50%; width: 115px; height: 115px; display: flex; align-items: center; justify-content: center;"
-        >
+        >          
             <img src="https://github.com/Taverna-Hub/ForgeSheets/assets/117609505/d4df0935-d266-4bd3-8dca-45eed6f8d878" style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden; width: 150px; " alt="Ana Clara"/>
         </div>
             <br />
