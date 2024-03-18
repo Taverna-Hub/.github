@@ -8,7 +8,7 @@
 <p align="center"><img src="https://github.com/Taverna-Hub/.github/assets/117609505/38218e6c-d514-40d9-b236-479347fbfdb7" width="800px" style="align: center;"></p>
 <br />
 <p align="center">
-    <a href="https://github.com/Taverna-Hub/ForgeSheets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=ForgeSheets&show_owner=true&bg_color=181818&text_color=fff&hide_border=true" /></a>
+    <a href="https://github.com/Taverna-Hub/ForgeSheets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=ForgeSheets&show_owner=true&theme=dark" /></a>
 </p>
 <br />
 
