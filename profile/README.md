@@ -85,5 +85,5 @@
 
 <br />
 <p align="center"><img src="https://github.com/Taverna-Hub/.github/assets/117609505/dfa89a05-bf01-4102-b881-792a0962c86a" width="800px" style="align: center;"></p>
-<h3 align="center">E-mail: taverna.hub@gmail.com</h3>
+<h3 align="center"><span><img src="https://github.com/Taverna-Hub/.github/assets/117609505/d341389b-4167-438c-a4ca-c955ba10816c" height="20px">‎</span>    E-mail: taverna.hub@gmail.com</h3>
 
