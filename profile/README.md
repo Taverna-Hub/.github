@@ -11,6 +11,10 @@
     <img src="https://github.com/Taverna-Hub/.github/assets/117609505/c776036f-6e7f-4576-9342-c3e93c66ac51" height="150px">    
     <a href="https://github.com/Taverna-Hub/ForgeSheets" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=ForgeSheets&show_owner=true&theme=dark" /></a>
 </p>
+<p align="center">
+    <img src="https://github.com/Taverna-Hub/.github/assets/117609505/50aeeffc-8928-4c4d-9526-2ba6f22ebf71" height="150px">
+    <a href="https://github.com/Taverna-Hub/BoxAdventure" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=BoxAdventure&show_owner=true&theme=dark" /></a>
+</p>
 <br />
 
 <p align="center"><img src="https://github.com/Taverna-Hub/.github/assets/117609505/ec28a1d8-16ff-4855-bea0-81f0fcd724d8" width="800px" style="align: center;"></p>
