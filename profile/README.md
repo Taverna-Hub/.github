@@ -3,7 +3,6 @@
 
 <h4 align="center">A Taverna é um grupo de inovação e tecnologia formado por estudantes dos cursos de graduação da CESAR School</h4>
 
-
 <br />
 <p align="center"><img src="https://github.com/Taverna-Hub/.github/assets/117609505/38218e6c-d514-40d9-b236-479347fbfdb7" width="800px" style="align: center;"></p>
 <br />
@@ -14,6 +13,10 @@
 <p align="center">
     <img src="https://github.com/Taverna-Hub/.github/assets/117609505/50aeeffc-8928-4c4d-9526-2ba6f22ebf71" height="150px">
     <a href="https://github.com/Taverna-Hub/BoxAdventure" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=BoxAdventure&show_owner=true&theme=dark" /></a>
+</p>
+<p align="center">
+    <img src="https://github.com/Taverna-Hub/.github/assets/67246528/873bfabb-beba-40e2-8e0c-9c63bc34e59f" height="130px">
+    <a href="https://github.com/Taverna-Hub/MeowDungeon" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=MeowDungeon&show_owner=true&theme=dark" /></a>
 </p>
 <br />
 
