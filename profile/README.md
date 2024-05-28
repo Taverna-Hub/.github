@@ -18,6 +18,10 @@
     <img src="https://github.com/Taverna-Hub/.github/assets/67246528/873bfabb-beba-40e2-8e0c-9c63bc34e59f" height="130px">
     <a href="https://github.com/Taverna-Hub/MeowDungeon" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=MeowDungeon&show_owner=true&theme=dark" /></a>
 </p>
+<p align="center">
+    <img src="https://github.com/Taverna-Hub/Kenshin/blob/main/bannerkenshin.jpeg" height="110px" width="210px">
+    <a href="https://github.com/Taverna-Hub/Kenshin" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=Kenshin&show_owner=true&theme=dark" /></a>
+</p>
 <br />
 
 <p align="center"><img src="https://github.com/Taverna-Hub/.github/assets/117609505/ec28a1d8-16ff-4855-bea0-81f0fcd724d8" width="800px" style="align: center;"></p>
