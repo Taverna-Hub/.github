@@ -20,7 +20,7 @@
 </p>
 <p align="center">
     <img src="https://github.com/Taverna-Hub/Kenshin/blob/main/bannerkenshin.jpeg" height="110px" width="210px">
-    <a href="https://github.com/Taverna-Hub/Kenshin" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=Kenshin&show_owner=true&theme=dark" /></a>
+    <a href="https://github.com/Taverna-Hub/Kenshin" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=Kenshin&show_owner=true&bg_color=151A1C&title_color=9B2A24&icon_color=9B2A24&text_color=E0EBF4&hide_border=true" /></a>
 </p>
 <br />
 
