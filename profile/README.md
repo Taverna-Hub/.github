@@ -8,18 +8,18 @@
 <br />
 <p align="center">
     <img src="https://github.com/Taverna-Hub/.github/assets/117609505/c776036f-6e7f-4576-9342-c3e93c66ac51" height="150px">    
-    <a href="https://github.com/Taverna-Hub/ForgeSheets" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=ForgeSheets&show_owner=true&bg_color=000&title_color=BE3738&icon_color=BE3738&text_color=E0EBF4&hide_border=true" /></a>
+    <a href="https://github.com/Taverna-Hub/ForgeSheets" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=ForgeSheets&show_owner=true&bg_color=151515&title_color=BE3738&icon_color=BE3738&text_color=E0EBF4&hide_border=true" /></a>
 </p>
 <p align="center">
     <img src="https://github.com/Taverna-Hub/.github/assets/117609505/50aeeffc-8928-4c4d-9526-2ba6f22ebf71" height="150px">
     <a href="https://github.com/Taverna-Hub/BoxAdventure" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=BoxAdventure&show_owner=true&bg_color=011627&title_color=6DA3CC&icon_color=6DA3CC&text_color=E0EBF4&hide_border=true" /></a>
 </p>
 <p align="center">
-    <img src="https://github.com/Taverna-Hub/.github/assets/67246528/873bfabb-beba-40e2-8e0c-9c63bc34e59f" height="130px">
+    <img src="https://github.com/Taverna-Hub/.github/assets/117609505/d33337b0-99c9-4d86-940c-1b0d55d2f0ec" height="150px">
     <a href="https://github.com/Taverna-Hub/MeowDungeon" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=MeowDungeon&show_owner=true&bg_color=12111F&title_color=AD3A75&icon_color=AD3A75&text_color=d1d5db&hide_border=true" /></a>
 </p>
 <p align="center">
-    <img src="https://github.com/Taverna-Hub/Kenshin/blob/main/bannerkenshin.jpeg" height="110px" width="210px">
+    <img src="https://github.com/Taverna-Hub/.github/assets/117609505/b4d83b78-bbf7-4fc2-b150-65e1e2954226" height="150px">
     <a href="https://github.com/Taverna-Hub/Kenshin" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=Kenshin&show_owner=true&bg_color=151A1C&title_color=9B2A24&icon_color=9B2A24&text_color=E0EBF4&hide_border=true" /></a>
 </p>
 <br />
