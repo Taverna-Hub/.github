@@ -7,23 +7,23 @@
 <p align="center"><img src="https://github.com/Taverna-Hub/.github/assets/117609505/38218e6c-d514-40d9-b236-479347fbfdb7" width="800px" style="align: center;"></p>
 <br />
 <p align="center">
-    <img src="https://github.com/Taverna-Hub/.github/assets/117609505/c776036f-6e7f-4576-9342-c3e93c66ac51" height="150px">    
+    <img src="https://github.com/Taverna-Hub/.github/assets/117609505/c776036f-6e7f-4576-9342-c3e93c66ac51" height="150px" width="200px">    
     <a href="https://github.com/Taverna-Hub/ForgeSheets" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=ForgeSheets&show_owner=true&bg_color=151515&title_color=BE3738&icon_color=BE3738&text_color=E0EBF4&hide_border=true" /></a>
 </p>
 <p align="center">
-    <img src="https://github.com/Taverna-Hub/.github/assets/117609505/50aeeffc-8928-4c4d-9526-2ba6f22ebf71" height="150px">
+    <img src="https://github.com/Taverna-Hub/.github/assets/117609505/50aeeffc-8928-4c4d-9526-2ba6f22ebf71" height="150px" width="200px">
     <a href="https://github.com/Taverna-Hub/BoxAdventure" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=BoxAdventure&show_owner=true&bg_color=011627&title_color=6DA3CC&icon_color=6DA3CC&text_color=E0EBF4&hide_border=true" /></a>
 </p>
 <p align="center">
-    <img src="https://github.com/Taverna-Hub/.github/assets/117609505/d33337b0-99c9-4d86-940c-1b0d55d2f0ec" height="150px">
+    <img src="https://github.com/Taverna-Hub/.github/assets/117609505/d33337b0-99c9-4d86-940c-1b0d55d2f0ec" height="150px" width="200px">
     <a href="https://github.com/Taverna-Hub/MeowDungeon" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=MeowDungeon&show_owner=true&bg_color=12111F&title_color=AD3A75&icon_color=AD3A75&text_color=d1d5db&hide_border=true" /></a>
 </p>
 <p align="center">
-    <img src="https://github.com/Taverna-Hub/.github/assets/117609505/b4d83b78-bbf7-4fc2-b150-65e1e2954226" height="150px">
+    <img src="https://github.com/Taverna-Hub/.github/assets/117609505/b4d83b78-bbf7-4fc2-b150-65e1e2954226" height="150px" width="200px">
     <a href="https://github.com/Taverna-Hub/Kenshin" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=Kenshin&show_owner=true&bg_color=151A1C&title_color=9B2A24&icon_color=9B2A24&text_color=E0EBF4&hide_border=true" /></a>
 </p>
 <p align="center">
-    <img src=https://github.com/user-attachments/assets/affebf5f-1b29-453b-8663-e77c9beb9641 height="150px">
+    <img src=https://github.com/user-attachments/assets/e982d134-4c67-44b8-aaef-07228a92c5ae height="150px" width="200px">
     <a href="https://github.com/Taverna-Hub/Recifishing" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=Recifishing&show_owner=true&bg_color=046B99&title_color=F69B00&icon_color=F69B00&text_color=E0EBF4&hide_border=true" /></a>
 </p>
 <br />
