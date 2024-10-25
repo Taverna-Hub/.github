@@ -23,7 +23,7 @@
     <a href="https://github.com/Taverna-Hub/Kenshin" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=Kenshin&show_owner=true&bg_color=151A1C&title_color=9B2A24&icon_color=9B2A24&text_color=E0EBF4&hide_border=true" /></a>
 </p>
 <p align="center">
-    <img src=https://github.com/user-attachments/assets/affebf5f-1b29-453b-8663-e77c9beb9641" height="150px">
+    <img src=https://github.com/user-attachments/assets/affebf5f-1b29-453b-8663-e77c9beb9641 height="150px">
     <a href="https://github.com/Taverna-Hub/Recifishing" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Taverna-Hub&repo=Recifishing&show_owner=true&bg_color=046B99&title_color=F69B00&icon_color=F69B00&text_color=E0EBF4&hide_border=true" /></a>
 </p>
 <br />
